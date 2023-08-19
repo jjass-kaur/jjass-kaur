@@ -1,15 +1,9 @@
 [![MasterHead](https://i.imgur.com/LVKvjL6.gif)](https://jjass-kaur.io)
 
-
 <h1 align="center">Hi 👋, I'm Jaskirat Kaur</h1>
 <h3 align="center">A Computer Science Engineering student from India who's absolutely captivated by the world of web development. 🌐 My journey started with simple HTML and CSS and that ignited a passion within me! 💡</h3>
-<h2> </h2>
-<br>
 <img align="right" alt="Coding" width="400" src="https://joshwithycombethirdyear.files.wordpress.com/2019/12/coding3.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jjass-kaur&label=Profile%20views&color=0e75b6&style=flat" alt="jjass-kaur" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjass-kaur" alt="jjass-kaur" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/jjass_kaur" target="blank"><img src="https://img.shields.io/twitter/follow/jjass_kaur?logo=twitter&style=for-the-badge" alt="jjass_kaur" /></a> </p>
 
